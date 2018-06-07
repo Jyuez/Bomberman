@@ -1,0 +1,102 @@
+#Tilemapping Version 1.0
+#tilset#
+8 10
+tile0: vide
+tile1: vide
+tile2: vide
+tile3: vide
+tile4: floor
+tile5: wall
+tile6: brick
+tile7: wall
+tile8: floor
+tile9: floor
+tile10: brick
+tile11: brick
+tile12: brick
+tile13: brick
+tile14: brick
+tile15: brick
+tile16: plein
+tile17: plein
+tile18: plein
+tile19: plein
+tile20: plein
+tile21: plein
+tile22: plein
+tile23: plein
+tile24: plein
+tile25: plein
+tile26: floor
+tile27: plein
+tile28: plein
+tile29: plein
+tile30: plein
+tile31: plein
+tile32: plein
+tile33: plein
+tile34: plein
+tile35: plein
+tile36: plein
+tile37: plein
+tile38: plein
+tile39: plein
+tile40: plein
+tile41: plein
+tile42: plein
+tile43: plein
+tile44: plein
+tile45: plein
+tile46: plein
+tile47: plein
+tile48: plein
+tile49: plein
+tile50: plein
+tile51: plein
+tile52: plein
+tile53: plein
+tile54: plein
+tile55: plein
+tile56: plein
+tile57: plein
+tile58: plein
+tile59: plein
+tile60: plein
+tile61: plein
+tile62: plein
+tile63: plein
+tile64: plein
+tile65: plein
+tile66: plein
+tile67: plein
+tile68: plein
+tile69: plein
+tile70: plein
+tile71: plein
+tile72: plein
+tile73: plein
+tile74: plein
+tile75: plein
+tile76: plein
+tile77: plein
+tile78: plein
+tile79: plein
+
+#level#
+25 15
+9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+9 9 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 9 9
+9 9 6 27 9 9 7 7 7 7 7 7 7 7 7 7 7 7 7 9 9 27 6 9 9
+9 9 6 9 9 9 7 7 7 7 7 7 7 7 7 7 7 7 7 9 9 9 6 9 9
+9 9 6 9 9 9 6 7 7 7 7 7 6 7 7 7 7 7 6 9 9 9 6 9 9
+9 9 6 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 6 9 9
+9 9 6 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 6 9 9
+9 9 6 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 7 6 9 9
+9 9 6 9 9 9 6 7 7 7 7 7 6 7 7 7 7 7 6 9 9 9 6 9 9
+9 9 6 9 9 9 7 7 7 7 7 7 7 7 7 7 7 7 7 9 9 9 6 9 9
+9 9 6 27 9 9 7 7 7 7 7 7 7 7 7 7 7 7 7 9 9 27 6 9 9
+9 9 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 6 9 9
+9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9 9
+#fin

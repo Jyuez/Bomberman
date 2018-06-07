@@ -1,0 +1,8 @@
+//
+// Created by David on 15/06/2017.
+//
+
+#ifndef BOMBERMAN_ACTIONLOBBY_H
+#define BOMBERMAN_ACTIONLOBBY_H
+
+#endif //BOMBERMAN_ACTIONLOBBY_H
